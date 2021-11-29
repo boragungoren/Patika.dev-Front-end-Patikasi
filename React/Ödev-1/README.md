@@ -5,4 +5,4 @@
 
 <br>
 
-<img src= "./img/Screenshot1.png">
+<img src= "./img/Screenshot1.PNG">
